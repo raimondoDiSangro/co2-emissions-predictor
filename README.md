@@ -67,7 +67,7 @@ https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64 (Ope
 
 ## Background
 
-Built as the final project for the *Knowledge Engineering* (ICon) course at the University of Bari. A detailed report (in Italian) is in [`docs/project_report_it.pdf`](docs/project_report_it.pdf).
+Built as the final project for the *Knowledge Engineering* (ICon) course at the University of Bari. A detailed report (in Italian) is in [`docs/project_report_it.pdf`](docs/project_report_it.pdf). This repository is a cleaned-up copy of that course project, republished in 2026.
 
 ## License
 
